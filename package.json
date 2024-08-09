@@ -1,0 +1,15 @@
+{
+  "name": "mongotut",
+  "version": "1.0.0",
+  "description": "mongotut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "faizan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
